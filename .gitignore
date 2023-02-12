@@ -1,0 +1,6 @@
+data
+*.zip
+tmdb-movie-metadata
+
+*.pkl
+books/*.pkl
